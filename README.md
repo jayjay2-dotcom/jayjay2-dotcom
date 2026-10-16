@@ -7,7 +7,7 @@
 
 *"Code. Secure. Innovate."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff88&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=jayjay2-dotcom&color=00ff88&style=flat-square)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=550&lines=Welcome+to+Shadow's+Digital+World;Cybersecurity+Enthusiast;Aspiring+Full-Stack+Developer;Always+Learning%2C+Always+Building)
 
 </div>
@@ -110,11 +110,11 @@ const shadow = {
 
 <div align="center">
 
-![Shadow's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Shadow's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayjay2-dotcom&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=jayjay2-dotcom&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -138,7 +138,7 @@ const shadow = {
 
 I'm always interested in connecting with fellow developers, cybersecurity enthusiasts, and tech learners.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayjay2-dotcom)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 
