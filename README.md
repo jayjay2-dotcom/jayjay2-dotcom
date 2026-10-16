@@ -112,7 +112,7 @@ const shadow = {
 
 ![Shadow's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayjay2-dotcom&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayjay2-dotcom&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jayjay2-dotcom&theme=tokyonight&hide_border=true)
 
